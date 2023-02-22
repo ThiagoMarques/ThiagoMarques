@@ -6,7 +6,7 @@
 
 I currently work at Wiz Soluções [Wiz](https://www.wizsolucoes.com.br)
 
-I'm learning at the moment **React, RESTful API's with Ruby and JS, CSS Advanced, OpenID**
+I'm learning at the moment **React, RXJS**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagossmarques/)](https://www.linkedin.com/in/thiagossmarques/)
