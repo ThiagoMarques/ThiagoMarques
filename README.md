@@ -4,7 +4,7 @@
 
 <p align = "justify">Frontend Developer | Angular | Ionic | Vue | React | JS  </p>
 
-I currently work at [Wiz Co](https://wiz.co/))
+I currently work at [Wiz Co](https://wiz.co/)
 
 I'm learning at the moment **React, RXJS**
 
