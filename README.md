@@ -6,9 +6,6 @@
 
 I currently work at [Wiz Co](https://wiz.co/)
 
-I'm learning at the moment **C# e Java**
-
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagossmarques/)](https://www.linkedin.com/in/thiagossmarques/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagossmarques/?hl=pt-br)](https://www.instagram.com/thiagossmarques/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thiagossmarques@gmail.com)](mailto:thiagossmarques@gmail.com)
