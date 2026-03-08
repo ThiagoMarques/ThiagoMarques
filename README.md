@@ -1,38 +1,32 @@
-### Hi 👋, welcome to my github!
+## Áreas de Interesse
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thiagomarques" alt="thiagomarques" /></p>
+### 💻 Desenvolvimento
+![Web Applications](https://img.shields.io/badge/Web_Applications-2C3E50?style=for-the-badge)
+![Apps & Digital Systems](https://img.shields.io/badge/Apps_&_Digital_Systems-34495E?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-1F618D?style=for-the-badge)
 
-## 🚀💻 Technologies & Tools
+### 🏗️ Arquitetura e Integração
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-5D6D7E?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-2874A6?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-1B4F72?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-2E4053?style=for-the-badge)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-![Material Design](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![VisualStudioCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### ☁️ Cloud e Infraestrutura
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-2471A3?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability-566573?style=for-the-badge)
 
-## ⚡ GitHub Stats
+### 🤖 Inteligência Artificial
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-5B2C6F?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6C3483?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-76448A?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8E44AD?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7D3C98?style=for-the-badge)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thiagomarques&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarques&hide=TeX&layout=compact)
+### ⚙️ Dados e Automação
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-2E86C1?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-1A5276?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Process_Automation-21618C?style=for-the-badge)
 
+### 🚀 Estratégia e Inovação
+![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-273746?style=for-the-badge)
+![Tech Innovation](https://img.shields.io/badge/Technology_Innovation-17202A?style=for-the-badge)
